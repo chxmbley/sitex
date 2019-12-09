@@ -1,6 +1,6 @@
 # jdchum/sitex
 
-Package `jdchum/sitex` reads the text content from a website regardless of styling, behavior, or structure. This package can be used to search site text for key words and phrases as well as monitoring text for changes.
+Package `jdchum/sitex` reads the text content from websites ignoring styling, behavior, and structure. This package can be used to search site text for key words and phrases as well as monitoring text for changes.
 
 ## Install
 
