@@ -50,7 +50,7 @@ Returns the text parsed from the webpage or an error if one occured.
 
 ## Limitations
 
-Text is parsed as-is from the initial content returned by the server. This means that content requiring additional network requests or user interactions are not available to the parser.
+Text is parsed as-is from the initial content returned by the server. This means that content requiring additional network requests or user interactions is not available to the parser.
 
 ## Roadmap
 
